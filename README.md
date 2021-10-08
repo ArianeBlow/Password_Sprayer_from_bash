@@ -1,5 +1,5 @@
 # Password_Sprayer_from_bash
-Password splaying in MS-AD env. Checking if password's valide on the default "NETLOGON" DC share
+Password spraying in MS-AD env. Checking if password's valide on the default "NETLOGON" DC share
 
 
 ```
